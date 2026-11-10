@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environnements
+.venv/
+.uv-cache/
+
+# Journaux et résultats générés
+logs/
+output/
+*.db
+*.sqlite
+*.sqlite3
